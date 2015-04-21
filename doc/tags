@@ -9,6 +9,9 @@
 'tomorrow_underline'	tomorrow.txt	/*'tomorrow_underline'*
 'tomorrow_visibility'	tomorrow.txt	/*'tomorrow_visibility'*
 before	tomorrow.txt	/*before*
+toggle-background	tomorrow.txt	/*toggle-background*
+toggle-bg	tomorrow.txt	/*toggle-bg*
+togglebg	tomorrow.txt	/*togglebg*
 tomorrow	tomorrow.txt	/*tomorrow*
 tomorrow-colors	tomorrow.txt	/*tomorrow-colors*
 tomorrow-colorscheme	tomorrow.txt	/*tomorrow-colorscheme*
@@ -19,9 +22,6 @@ tomorrow-options	tomorrow.txt	/*tomorrow-options*
 tomorrow-term	tomorrow.txt	/*tomorrow-term*
 tomorrow-togglebg	tomorrow.txt	/*tomorrow-togglebg*
 tomorrow.vim	tomorrow.txt	/*tomorrow.vim*
-toggle-background	tomorrow.txt	/*toggle-background*
-toggle-bg	tomorrow.txt	/*toggle-bg*
-togglebg	tomorrow.txt	/*togglebg*
 urxvt	tomorrow.txt	/*urxvt*
 vim-colors-tomorrow	tomorrow.txt	/*vim-colors-tomorrow*
 without	tomorrow.txt	/*without*

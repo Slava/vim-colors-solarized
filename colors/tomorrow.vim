@@ -514,7 +514,7 @@ exe "hi! Todo"           .s:fmt_bold   .s:fg_magenta.s:bg_none
 exe "hi! SpecialKey" .s:fmt_revr   .s:fg_red    .s:bg_none
 exe "hi! NonText"    .s:fmt_bold   .s:fg_red    .s:bg_none
 exe "hi! StatusLine"     .s:fmt_none   .s:fg_base1   .s:bg_base2  .s:fmt_revbb
-exe "hi! StatusLineNC"   .s:fmt_none   .s:fg_base1  .s:bg_base2  .s:fmt_revbb
+exe "hi! StatusLineNC"   .s:fmt_none   .s:fg_base1  .s:bg_base0  .s:fmt_revbb
 exe "hi! Visual"         .s:fmt_none   .s:fg_base1  .s:bg_base3  .s:fmt_revbb
 exe "hi! Directory"      .s:fmt_none   .s:fg_blue   .s:bg_none
 exe "hi! ErrorMsg"       .s:fmt_revr   .s:fg_red    .s:bg_none
